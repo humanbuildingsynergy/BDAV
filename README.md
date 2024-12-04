@@ -7,7 +7,8 @@ This BDAV course is designed for architectural and civil engineering students wh
 - Python
 - MySQL
 - GitHub
-These tools and programming languages were chosen based on [the survey] conducted by KDnuggets in 2019 and Dr. Jung's personal experiences.
+
+These tools and programming languages were chosen based on <a href="https://www.kdnuggets.com/2020/06/data-science-tools-popularity-animated.html" target="_blank">the survey</a> conducted by KDnuggets in 2019 and Dr. Jung's personal experiences.
 
 ## Philosophy
 This course only covers 'widely accessible' or 'publicly available' tools or programming languages; hence, students who have taken this course can utilize them after graduation. MATLAB, for example, is a commercialized programming language and it cannot be used without a license.
@@ -23,7 +24,6 @@ This course utilizes two datasets:
 
 Credit: Dr. [Wooyoung Jung].
 
-[the survey]: https://www.kdnuggets.com/2020/06/data-science-tools-popularity-animated.html
 [ecobee Donate Your Data (DYD) dataset]: https://www.ecobee.com/en-us/donate-your-data/
 [Smart thermostat data-driven US residential occupancy schedules and development of a US residential occupancy schedule simulator]: https://doi.org/10.1016/j.buildenv.2023.110628
 [Wooyoung Jung]: https://hubs.engr.arizona.edu/director.html
