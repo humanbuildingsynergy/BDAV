@@ -27,4 +27,5 @@ Credit: Dr. [Wooyoung Jung].
 [the survey]: https://www.kdnuggets.com/2020/06/data-science-tools-popularity-animated.html
 [ecobee Donate Your Data (DYD) dataset]: https://www.ecobee.com/en-us/donate-your-data/
 [Smart thermostat data-driven US residential occupancy schedules and development of a US residential occupancy schedule simulator]: https://doi.org/10.1016/j.buildenv.2023.110628
+[Residential Energy Survey Consumption (RECS) data]: https://www.eia.gov/consumption/residential/index.php
 [Wooyoung Jung]: https://hubs.engr.arizona.edu/director.html
