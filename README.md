@@ -15,8 +15,8 @@ This course only covers 'widely accessible' or 'publicly available' tools or pro
 
 ## Dataset
 This course utilizes two datasets:
-    1) [ecobee Donate Your Data (DYD) dataset]: ecobee - a Canadian smart thermostat vendor - launched the DYD program in 2015 to collaborate with researchers. Customers can 'donate' their anonymized data for the R&D purposes and Dr. Jung has published one journal article, titled [Smart thermostat data-driven US residential occupancy schedules and development of a US residential occupancy schedule simulator], so far. The HUman Building Synergy (HUBS) laboratory has access to this dataset (upon agreement with ecobee) and utilizes the metdata and 20 thermostat operational data. This dataset will not be shared in this repository.
-    2) [Residential Energy Survey Consumption (RECS) data]: This public dataset is adminstrated by the U.S. Energy Information Administration (EIA) and contains ~18,500 households data. More details can be found in the provided link.
+- [ecobee Donate Your Data (DYD) dataset]: ecobee - a Canadian smart thermostat vendor - launched the DYD program in 2015 to collaborate with researchers. Customers can 'donate' their anonymized data for the R&D purposes and Dr. Jung has published one journal article, titled [Smart thermostat data-driven US residential occupancy schedules and development of a US residential occupancy schedule simulator], so far. The HUman Building Synergy (HUBS) laboratory has access to this dataset (upon agreement with ecobee) and utilizes the metdata and 20 thermostat operational data. This dataset will not be shared in this repository.
+- [Residential Energy Survey Consumption (RECS) data]: This public dataset is adminstrated by the U.S. Energy Information Administration (EIA) and contains ~18,500 households data. More details can be found in the provided link.
 
 ## Repository Structure
 - Python: This folder contains Python, Jupyter Notebook files, covering the basics, different useful libraries (e.g., pandas) for data analytics and visualization.
